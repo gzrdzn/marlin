@@ -1,5 +1,5 @@
 # marlin
-Marlin is one of the main characters of "Finding Nemo". He is always trying to make sure Nemo is safe and becoming the best fish he can be. Hence, Marlin is always checking what works and what isn't working with Nemo.
+[Marlin](https://pixar.fandom.com/wiki/Marlin) is one of the main characters of "Finding Nemo". He is always trying to make sure Nemo is safe and becoming the best fish he can be. Hence, Marlin is always checking what works and what isn't working with Nemo.
 
 # using [maestro](https://maestro.dev/)
 Learn more [about Maestro here](https://docs.maestro.dev/).
