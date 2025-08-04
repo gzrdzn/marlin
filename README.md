@@ -5,7 +5,8 @@
 Learn more [about Maestro here](https://docs.maestro.dev/). Maestro will need a mobile app to test and, for this example, I am using the Android Emulator.
 
 ## install emulator with android studio
-Learn to install the [Emulator for Android Apps](https://developer.android.com/studio/run/emulator).
+Learn to [install the Emulator for Android Apps](https://developer.android.com/studio/run/emulator).
+Learn to [use the Emulator](https://docs.maestro.dev/getting-started/build-and-install-your-app/android).
 
 # purpose
 Initial purpose is to test the "luckyfin" app.
