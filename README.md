@@ -2,7 +2,7 @@
 [Marlin](https://pixar.fandom.com/wiki/Marlin) is one of the main characters of "Finding Nemo". He is always trying to make sure Nemo is safe and becoming the best fish he can be. Hence, Marlin is always checking what works and what isn't working with Nemo.
 
 # using [maestro](https://maestro.dev/)
-Learn more [about Maestro here](https://docs.maestro.dev/).
+Learn more [about Maestro here](https://docs.maestro.dev/). Maestro will need a mobile app to test and, for this example, I am using the Android Emulator.
 
 ## install emulator with android studio
 Learn to install the [Emulator for Android Apps](https://developer.android.com/studio/run/emulator).
