@@ -4,6 +4,9 @@
 # using [maestro](https://maestro.dev/)
 Learn more [about Maestro here](https://docs.maestro.dev/).
 
+## install emulator with android studio
+Learn to install the [Emulator for Android Apps](https://developer.android.com/studio/run/emulator).
+
 # purpose
 Initial purpose is to test the "luckyfin" app.
 
