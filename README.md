@@ -11,6 +11,9 @@ Learn more [about Maestro here](https://docs.maestro.dev/). Maestro will need a 
 Learn to [install the Emulator for Android Apps](https://developer.android.com/studio/run/emulator).  
 Learn to [use the Emulator](https://docs.maestro.dev/getting-started/build-and-install-your-app/android).
 
+## run test with maestro
+Learn to [run sample test flow](https://docs.maestro.dev/getting-started/run-a-sample-flow).
+
 # purpose
 Initial purpose is to test the "luckyfin" app.
 
