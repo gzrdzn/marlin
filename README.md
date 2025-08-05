@@ -1,4 +1,4 @@
-I need to learn about this GitHub CLI: https://github.com/cli/cli#installation
+I need to learn about this GitHub CLI: [install](https://github.com/cli/cli#installation), [docs](https://cli.github.com/).
 Things are getting more complex. :|
 
 # marlin
