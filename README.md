@@ -19,6 +19,7 @@ When you run command `adb install sample.apk` and see this issue `command not fo
 Make sure to select checkbox to install the missing "Android SDK Command Line Tools".
 <img width="682" height="82" alt="android_tools_command_tools_screenshot" src="https://github.com/user-attachments/assets/d3fe7841-1047-458c-8e1a-b67bbd160a53" />
 
+Also, make sure the Android SDK Platform Tools location is added to the PATH on your machine. See these [dev community instructions on SO](https://stackoverflow.com/questions/34532063/finding-android-sdk-on-mac-and-adding-to-path) as an example.
 
 # purpose
 Initial purpose is to test the "luckyfin" app.
