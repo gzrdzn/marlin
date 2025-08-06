@@ -16,6 +16,10 @@ Learn and run [sample test flow](https://docs.maestro.dev/getting-started/run-a-
 
 When you run command `adb install sample.apk` and see this issue `command not found: adb`, then follow these instructions and download the [Android SDK Platform-Tools](https://developer.android.com/tools/releases/platform-tools) or follow these [instructions via SDK Manager](https://developer.android.com/studio/intro/update#sdk-manager). Take note, the location of the SDK Manager may have changed (like my version has the SDK Manager under the "Languages & Frameworks" section within Settings).
 
+Make sure to select checkbox to install the missing "Android SDK Command Line Tools".
+<img width="682" height="82" alt="android_tools_command_tools_screenshot" src="https://github.com/user-attachments/assets/d3fe7841-1047-458c-8e1a-b67bbd160a53" />
+
+
 # purpose
 Initial purpose is to test the "luckyfin" app.
 
