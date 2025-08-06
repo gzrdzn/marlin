@@ -12,7 +12,9 @@ Learn to [install the Emulator for Android Apps](https://developer.android.com/s
 Learn to [use the Emulator](https://docs.maestro.dev/getting-started/build-and-install-your-app/android).
 
 ## run test with maestro
-Learn to [run sample test flow](https://docs.maestro.dev/getting-started/run-a-sample-flow).
+Learn and run [sample test flow](https://docs.maestro.dev/getting-started/run-a-sample-flow).
+
+When you run command `adb install sample.apk` and see this issue `command not found: adb`, then follow these instructions and download the [Android SDK Platform-Tools](https://developer.android.com/tools/releases/platform-tools).
 
 # purpose
 Initial purpose is to test the "luckyfin" app.
