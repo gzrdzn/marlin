@@ -35,6 +35,13 @@ When you run command `abd install sample.apk` and see this issue `adb: no device
 **Command to install sample.apk for maestro**  
 <img width="287" height="63" alt="Screenshot 2025-08-11 at 20 43 05" src="https://github.com/user-attachments/assets/98ec9829-a963-4272-8e12-28d9029b53a4" />
 
+Run the command to execute the Android Flow via Maestro and see the Android Emulator open the Wikipedia page.
+
+**Example of running Maestro command to test sample flow**  
+<img width="279" height="164" alt="Screenshot 2025-08-11 at 20 54 53" src="https://github.com/user-attachments/assets/cd46155a-379c-4dca-84d0-b2a26c3c0170" />
+
+**Example of result from Maestro test sample flow**  
+<img width="453" height="803" alt="Screenshot 2025-08-11 at 20 54 36" src="https://github.com/user-attachments/assets/2d47b174-7bec-4e16-b8f5-a51f3163ef17" />
 
 # purpose
 Initial purpose is to test the "luckyfin" app.
