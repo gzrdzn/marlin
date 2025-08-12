@@ -21,7 +21,18 @@ Make sure to select checkbox to install the missing "Android SDK Command Line To
 
 Also, make sure the Android SDK Platform Tools location is added to the PATH on your machine. See these [dev community instructions on SO](https://stackoverflow.com/questions/34532063/finding-android-sdk-on-mac-and-adding-to-path) as an example.
 
-When you run command `abd install sample.apk` and see this issue `adb: no devices/emulators found`, then follow these instructions...
+```zshrc
+# add these two lines into your .zshrc file, THEN source ~/.zshrc
+export ANDROID_HOME=$HOME/Library/Android/sdk
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+```
+
+When you run command `abd install sample.apk` and see this issue `adb: no devices/emulators found`, then you just forgot to start your Android emulator. Start it, and re-run command. 
+
+<img width="192" height="59" alt="Screenshot 2025-08-11 at 20 42 53" src="https://github.com/user-attachments/assets/b8877970-858f-4555-97fd-a606f1011bce" />
+
+<img width="287" height="63" alt="Screenshot 2025-08-11 at 20 43 05" src="https://github.com/user-attachments/assets/98ec9829-a963-4272-8e12-28d9029b53a4" />
+
 
 # purpose
 Initial purpose is to test the "luckyfin" app.
