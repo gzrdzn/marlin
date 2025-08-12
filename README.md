@@ -59,3 +59,4 @@ Eventually, this is to test my application that helps the blind navigate the oce
 * [Espresso](https://developer.android.com/training/testing/espresso) | [Intro to Espresso](https://www.youtube.com/watch?v=lZ8Yx0Azx_A&list=PLuSTZ2_3-OB6CDAK_3KBRwr7xk7rzjW92) | this is the suggested tool by Android Developers for Android Developers (which means you know the codebase similar to unit tests).
 ## online references
 * [reddit](https://www.reddit.com/r/softwaretesting/comments/1g5rder/automated_native_ios_android_app_testing_what_to/)
+* [reddit 2](https://www.reddit.com/r/softwaretesting/comments/1l8q23o/lets_talk_about_appium_espresso_and_maestro/)
