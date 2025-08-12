@@ -9,8 +9,8 @@ Learn more [about Maestro here](https://docs.maestro.dev/). Maestro will need a 
 
 ## install emulator with android studio
 Learn to [install and use the Emulator for Android Apps](https://developer.android.com/studio/run/emulator).  
-Learn to [install and use the Android Debug Bridge](https://developer.android.com/tools/adb).
-Learn to [use the Emulator with Maestro](https://docs.maestro.dev/getting-started/build-and-install-your-app/android).
+Learn to [install and use the Android Debug Bridge](https://developer.android.com/tools/adb).  
+Learn to [use the Emulator with Maestro](https://docs.maestro.dev/getting-started/build-and-install-your-app/android).  
 
 ## run test with maestro
 Learn and run [sample test flow](https://docs.maestro.dev/getting-started/run-a-sample-flow).
