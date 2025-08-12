@@ -29,8 +29,10 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
 
 When you run command `abd install sample.apk` and see this issue `adb: no devices/emulators found`, then you just forgot to start your Android emulator. Start it, and re-run command. 
 
+**Command to list active emulators**
 <img width="192" height="59" alt="Screenshot 2025-08-11 at 20 42 53" src="https://github.com/user-attachments/assets/b8877970-858f-4555-97fd-a606f1011bce" />
 
+**Command to install sample.apk for maestro**
 <img width="287" height="63" alt="Screenshot 2025-08-11 at 20 43 05" src="https://github.com/user-attachments/assets/98ec9829-a963-4272-8e12-28d9029b53a4" />
 
 
